@@ -1,8 +1,8 @@
 # 📝 To-Do List API — Spring Boot
 
 ### Gerencie suas tarefas de forma simples, rápida e eficiente
+[![License](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/GustavoInTech/todo-list-api-springboot/blob/main/LICENSE)
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ---
 
